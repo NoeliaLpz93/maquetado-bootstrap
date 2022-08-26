@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Merriweather', serif;
+}
+
+.bg-Lxs {
+    background-color: #f8f8a9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+footer {
+    width: 100%;
+    background: var(#e6e650);
+    height: 100%;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+}
+/*nosotros.html*/
+.nosotros{
+    margin: 0 auto;
+    width: 80%;
+   text-align: center;
+   background-position: center;
+}
+.Nosotros-img{
+    text-align: center;
+}
+.anchofooter {
+    margin-top: 30px;
+}
+.redes{
+    display: inline-block;
+}
+.bi-instagram {
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: black;
+}
+.bi-instagram:hover {
+    color: aquamarine;
+}
+.bi-whatsapp {
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: black;
+}
+.bi-whatsapp:hover {
+    color: #36fd36;
+}
